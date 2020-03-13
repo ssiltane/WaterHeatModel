@@ -4,6 +4,7 @@
 
 %% Preliminary computations and definitions
 
+
 % Parameters for controlling plot appearance
 msize = 20;
 lwidth = 1.5;
